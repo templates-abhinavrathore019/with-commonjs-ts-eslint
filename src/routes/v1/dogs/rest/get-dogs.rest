@@ -1,0 +1,2 @@
+
+GET {{host}}/{{prefix}}/{{v1}}/dogs HTTP/1.1
